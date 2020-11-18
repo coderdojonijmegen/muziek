@@ -5,7 +5,7 @@
 Zorg dat je het programma hebt geïnstalleerd: <https://sonic-pi.net/>
 
 - <https://coderdojo-leiden.nl/sonic-pi>
-- <https://coderdojo-nijmegen.nl/wp-content/uploads/2015/04/LES-1-Sonic-Pi-Je-eerste-geluiden-met-Sonic-Pi.pdf>
+- <https://projects.raspberrypi.org/nl-NL/projects/getting-started-with-sonic-pi>
 
 ## Scratch
 
